@@ -1,6 +1,4 @@
 [run]
 omit =
     */.ve/*
-
-    # omit this single file
-    manage.py
+    */virtualenv/*
