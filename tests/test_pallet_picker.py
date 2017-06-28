@@ -1,6 +1,6 @@
 from unittest import TestCase
 from random import randrange
-from gradient_image_generator.pallet_picker import pallets, pallet_picker
+from pillow_gradient_generator.pallet_picker import pallets, pallet_picker
 
 
 class GradientColorPickerTest(TestCase):

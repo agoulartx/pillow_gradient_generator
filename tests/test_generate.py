@@ -1,5 +1,5 @@
 import unittest
-from gradient_image_generator.generate import (
+from pillow_gradient_generator.generate import (
     generate_image, fill_image)
 from PIL import Image, ImageDraw
 
